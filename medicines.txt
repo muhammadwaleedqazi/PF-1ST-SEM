@@ -1,0 +1,14 @@
+
+1 Panadol(paracetamol 500mg) GlaxoSimithKline (GSK) Pain relief, fever reduction tablet 4 100 2026-08-15 0 
+1 Brufen(ibuprofen 400mg) Abbott Laboratories Pakistan Pain,Inflammation,Fever tablet 6 90 2028-09-10 1 
+1 Novidat(Ciprofloxacin 500mg) Sami Pharma Antibiotic for Bacterial Infections tablet 10 -15 100 2028-06-11 1 
+1 Moxifin (Amoxicillin 500mg) Getz Pharma Antibiotic for Bacterial Infections tablet 10 100 2028-08-10 1 
+1 Flagyl (Metronidazole 400mg) Sanofi-Aventis Pakistan Antibiotic and Antiprotozoal tablet 6 100 2030-01-10 0 
+1 Ventolin Syrup (Salbutamol 2mg/5ml) GlaxiSimithKline (GSK) Bronchodilator for asthma and respiratory conditions syrup 70 -90 50 2028-06-06 1 
+1 Cofcol syrup Brookes Pharma Relief from cough and cold symptoms syrup 70 -100 20 2030-01-01 1 
+1 Polyfex syrup (Polymyxin B, Neomycin, Dexamethasone) Hilton Pharma Anti-Inflammatory, antibiotic for respiratory infections syrup 160 -200 20 2029-05-01 1
+ 
+1 Amoxil (Amoxicllin 500mg) GlaxoSimithKline (GSK) Antibiotic for Bacterial Infections capsule 6 100 2030-01-01 1 
+1 Ompera (Omperazole 20mg) Sami Pharma Reduces stomach acids capsule 6 50 2032-01-20 1 
+1 Risek (Esomeprazole 40mg) Getz Pharma Proton pump inhibitor for acid reflux, ulcers capsule 12 -15 40 2033-01-01 1 
+1 Augmentin  GlaxoSimithKline (GSK) Broad-spectrum antibiotic capsule 45 100 2035-01-30 1 
